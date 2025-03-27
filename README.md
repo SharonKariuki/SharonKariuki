@@ -1,11 +1,4 @@
-<h1 align="center">Hi there, I'm Sharon Kariuki 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/SharonKariuki"><img src="https://img.shields.io/github/followers/SharonKariuki?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:sharonmugure66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
-</p>
-
----
 
 ## 👩‍💻 **About Me**
 - 🚀 **Aspiring Full-Stack Developer & AI Enthusiast**  
