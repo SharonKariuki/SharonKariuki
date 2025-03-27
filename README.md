@@ -1,21 +1,20 @@
-<h1 align="center">Hi there, I'm SharonKariuki 👋</h1>
+<h1 align="center">Hi there, I'm Sharon Kariuki 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"></a>
+  <a href="https://github.com/SharonKariuki"><img src="https://img.shields.io/github/followers/SharonKariuki?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:sharonmugure66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" alt="Email"></a>
 </p>
 
 ---
 
-### 👩‍💻 **About Me**
-🚀 Aspiring Full-Stack Developer & AI Enthusiast
-🔭 Currently mastering the MERN Stack and diving into AI & ML
-
+## 👩‍💻 **About Me**
+- 🚀 **Aspiring Full-Stack Developer & AI Enthusiast**  
+- 🔭 Currently mastering **MERN Stack** and exploring **AI & Machine Learning**  
+- 🌱 Passionate about **building scalable applications** and **leveraging technology to solve real-world problems**  
 
 ---
 
-### 🚀 **Tech Stack**
+## 🚀 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
@@ -27,36 +26,33 @@
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharonKariuki&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonKariuki&layout=compact&theme=radical" height="150">
 </p>
 
 ---
 
-### 🔥 **Daily Dose**
-> *"The only way to do great work is to love what you do."* – **Steve Jobs**
-
----
-
-### 📌 **Pinned Projects**
+## 📌 **Pinned Projects**
 <table>
   <tr>
-    <td><a href="https://github.com/your-username/project1"><img src="https://img.shields.io/badge/-Project1-blue?style=flat"></a></td>
-    <td><a href="https://github.com/your-username/project2"><img src="https://img.shields.io/badge/-Project2-red?style=flat"></a></td>
+    <td><a href="https://github.com/SharonKariuki/project1"><img src="https://img.shields.io/badge/-Project1-blue?style=flat"></a></td>
+    <td><a href="https://github.com/SharonKariuki/project2"><img src="https://img.shields.io/badge/-Project2-red?style=flat"></a></td>
   </tr>
 </table>
 
 ---
 
-### ⚡ **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
-
----
+## ⚡ **Let's Connect!**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="150">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:sharonmugure66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
+---
 
+## 🔥 **GitHub Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharonKariuki&theme=radical" height="150">
+</p>
