@@ -9,7 +9,6 @@
 ## 🧠 About Me
 
 - 💻 Software Developer skilled in full-stack and systems development
-- 🤖 Exploring AI, Machine Learning & Intelligent Systems
 - ☁️ Interested in Cloud Infrastructure & Scalable Architectures
 - 🎨 Strong eye for UI/UX (Figma + Frontend Engineering)
 
