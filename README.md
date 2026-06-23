@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=30&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Sharon+%F0%9F%91%8B;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast"
+    src="https://readme-typing-svg.demolab.com/?font=Poppins&size=30&pause=1200&color=F75C7E&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Sharon+%F0%9F%91%8B;Full-Stack+Developer;Cloud+Computing+%26+Scalable+Systems"
   />
 </h1>
 
@@ -8,9 +8,10 @@
 
 ## 🧠 About Me
 
-- 💻 Software Developer skilled in full-stack and systems development
-- ☁️ Interested in Cloud Infrastructure & Scalable Architectures
-- 🎨 Strong eye for UI/UX (Figma + Frontend Engineering)
+- 💻 Full-Stack Developer building modern and scalable web applications
+- ☁️ Exploring Cloud Computing, DevOps, and cloud-native architectures
+- 🚀 Leveraging AI-powered tools to improve development workflows
+- 🎨 Strong eye for UI/UX design
 
 ---
 
@@ -21,7 +22,6 @@
 ---
 
 ## ⚡ Technical Ecosystem
-
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,14 +50,22 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SharonKariuki&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SharonKariuki&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharonKariuki&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharonKariuki&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 </p>
 
 ---
@@ -65,9 +73,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  - 📧 **Direct Contact:**
   <a href="mailto:sharon.kariuki@strathmore.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  - 💼 **Professional Network:**
   <a href="https://www.linkedin.com/in/sharonmugure">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
